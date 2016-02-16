@@ -1,0 +1,82 @@
+header {
+	position: fixed;
+	background-color: gray;
+	width: 100%;
+	z-index: 15;
+	color: white;
+}
+.escuela {
+	color: #4F5B79;
+	text-align: center;
+	margin-top: 10px;
+
+}
+li {
+	color: #4F5B79;
+	display: inline-block;
+	margin: 25px 35px;
+}
+ul {
+	text-align: center;
+}
+p {
+	font-size: 10px;
+	color:  #A3ABB2;
+}
+.fondo1 {
+	background: url("img/header.png")repeat;
+    width: 100%;
+    height: 310px;
+    padding: 0px;
+}
+.metodo {
+	width: 650px;
+    height: 400px;
+    clip: rect(0px 650px 310px 0px);
+    position: absolute;
+    margin-left: -27em;
+}
+.metodologia {
+	color: white;
+    top: -62px;
+    left: 111px;
+    position: relative;
+    padding-bottom: 10px;
+} 
+.img-thumbnail{
+	padding:13px 13px 45px 13px;
+}
+.thumbnail{
+	margin-bottom:30px;
+}
+.load{
+	font-size:15px;
+	font-family:Arial;
+	padding:20px;
+	border-radius:2px;
+	background-color:#2D313A;
+	color:white;
+	position:absolute;
+}
+.col-xs-12 .load{
+	text-decoration:none;
+}
+.col-xs-12 .load:hover {
+	color:#091422 ;
+	background-color:#089FAA;
+}
+.fa-eye{
+	font-size: 10px;
+	float: right;
+}
+.fa-heart{
+	font-size: 10px;
+	float: right;
+}
+.compacto{
+	text-align: justify;
+	width: 428px;
+}
+.text-left{
+	color: black;
+}
